@@ -1,10 +1,13 @@
 # Cpp-studying
 C++ studying with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
 
-P-01-4-1
+### File Names
 
-P: Problems(provided in the book)
+#### About P-01-4-1
 
+P: Problems(provided in the book)<br>
+01-4: Problem number(4th problem of chapter 1)<br>
+1: Problem lower number(1st lower problem of 01-4)
 
 ### Contents
 
