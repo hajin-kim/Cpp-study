@@ -1,12 +1,16 @@
 # Cpp-studying
 C++ studying with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
 
+P-01-4-1
+
+P: Problems(provided in the book)
+
 
 ### Contents
 
 Part 01 From C to C++
 
-     Chapter 01 C++ based on C Step.1
+     Chapter 01 C++ based on C - Ⅰ
     01-1 Substitutes of printf() and scanf()
     01-2 Function Overloading
     01-3 Parameter Default Value
@@ -14,6 +18,7 @@ Part 01 From C to C++
     01-5 Namespace
     01-6 OOP Challenge Project Step.01
     
+     Chapter 02 C++ based on C - Ⅱ
 
 <br>
 
