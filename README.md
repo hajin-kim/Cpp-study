@@ -2,7 +2,7 @@
 C++ studying with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
 
 
-#### Contents
+### Contents
 
 Part 01 From C to C++
 
@@ -15,7 +15,7 @@ Part 01 From C to C++
     01-6 OOP Challenge Project Step.01
     
 
-#### 목차
+### 목차
 
 Part 01 C++로의 전환
 
