@@ -9,6 +9,13 @@ P: Problems(provided in the book)<br>
 01-4: Problem number(4th problem of chapter 1)<br>
 1: Problem lower number(1st lower problem of 01-4)
 
+#### About OOP-01
+
+OOP: OOP Challenge Project
+01: Step.01
+
+<br>
+
 ### Contents
 
 Part 01 From C to C++
