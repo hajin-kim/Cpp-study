@@ -20,7 +20,7 @@ OOP: OOP Challenge Project<br>
 
 Part 01 From C to C++
 
-     Chapter 01 C++ based on C - Ⅰ
+     Chapter 01 C++ based on C Ⅰ
     01-1 Substitutes of printf() and scanf()
     01-2 Function Overloading
     01-3 Parameter Default Value
@@ -28,7 +28,7 @@ Part 01 From C to C++
     01-5 Namespace
     01-6 OOP Challenge Project Step.01
     
-     Chapter 02 C++ based on C - Ⅱ
+     Chapter 02 C++ based on C Ⅱ
 
 <br>
 
