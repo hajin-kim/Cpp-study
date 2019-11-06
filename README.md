@@ -6,7 +6,7 @@ C++ studying with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
 #### About P-01-4-1
 
 P: Problems(provided in the book)<br>
-01-4: Problem number(4th problem of chapter 1)<br>
+01-4: Problem number(4th problem of chapter 01)<br>
 1: Problem lower number(1st lower problem of 01-4, there can be only one lower problem for each problem)
 
 #### About OOP-01
