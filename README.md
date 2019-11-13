@@ -18,7 +18,7 @@ OOP Challenge Project(provided in the book)
 
 ## Contents
 
-Part 01 From C to C++
+### Part 01 From C to C++
 
 Chapter 01 C++ based on C Ⅰ
  - 01-1 Substitutes of printf() and scanf()
@@ -35,6 +35,10 @@ Chapter 02 C++ based on C Ⅱ
  - 02-4 Reference and Function
  - 02-5 new and delete: Alternatives of malloc() and free()
  - 02-6 Calling C Standard Functions from C++
+
+### Part 02 Starting Object Oriented Programming
+
+Chapter 03 The Basic of Class
 
 <br>
 
