@@ -21,7 +21,7 @@ OOP Challenge Project(provided in the book)
 ### Part 01 From C to C++
 
 Chapter 01 C++ based on C Ⅰ
- - 01-1 Substitutes of printf() and scanf()
+ - 01-1 Substitutes of `printf()` and `scanf()`
  - 01-2 Function Overloading
  - 01-3 Parameter Default Value
  - 01-4 Inline Function
@@ -30,16 +30,16 @@ Chapter 01 C++ based on C Ⅰ
 
 Chapter 02 C++ based on C Ⅱ
  - 02-1 Before Starting Chapter 02
- - 02-2 New Type 'bool'
+ - 02-2 New Type `bool`
  - 02-3 Understanding of Reference
  - 02-4 Reference and Function
- - 02-5 new and delete: Alternatives of malloc() and free()
+ - 02-5 `new` and `delete`: Alternatives of `malloc()` and `free()`
  - 02-6 Calling C Standard Functions from C++
 
 ### Part 02 Starting Object Oriented Programming
 
 Chapter 03 The Basic of Class
- - C++ Style Struct
+ - C++ Style `struct`
  - Class and Object
  - Understanding of OOP
 
