@@ -3,13 +3,13 @@ C++ learning with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
 
 ## File Names
 
-### About P-01-4-1.cpp
+### About /.../P-01-4-1.cpp
 
 P: Problems(provided in the book)  
 01-4: Problem number(4th problem of chapter 01)  
 1: Problem lower number(1st lower problem of 01-4, there can be only one lower problem for each problem)  
 
-### About OOP Project 01/
+### About /OOP Project 01/
 
 OOP Challenge Project(provided in the book)  
 01: Step.01  
