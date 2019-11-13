@@ -26,7 +26,7 @@ Chapter 01 C++ based on C Ⅰ
  - 01-3 Parameter Default Value
  - 01-4 Inline Function
  - 01-5 Namespace
- - 01-6 OOP Challenge Project Step.01
+ - **01-6 OOP Challenge Project Step.01**
 
 Chapter 02 C++ based on C Ⅱ
  - 02-1 Before Starting Chapter 02
