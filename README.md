@@ -39,6 +39,11 @@ Chapter 02 C++ based on C Ⅱ
 ### Part 02 Starting Object Oriented Programming
 
 Chapter 03 The Basic of Class
+ - C++ Style Struct
+ - Class and Object
+ - Understanding of OOP
+
+Chapter 04 Understanding of Class
 
 <br>
 
