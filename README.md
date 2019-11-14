@@ -48,7 +48,7 @@ Chapter 04 Understanding of Class
  - 04-2 Encapsulation
  - 04-3 Constructor and Destructor
  - 04-4 Class, Array and `this` Pointer
- - **01-6 OOP Challenge Project Step.02**
+ - **04-5 OOP Challenge Project Step.02**
 
 <br>
 
