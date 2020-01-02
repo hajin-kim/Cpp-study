@@ -1,5 +1,5 @@
-# Cpp-learning
-C++ learning with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
+# Cpp-study
+C++ study with "열혈 C++ 프로그래밍"(2010, ISBN13: 9788996094043)
 
 ## File Names
 
